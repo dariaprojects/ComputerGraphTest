@@ -1,0 +1,13 @@
+﻿  mainFile.cpp
+E:\C++ progs\Сomputer_graphics\Сomputer_graphics\mainFile.cpp(97,14): warning C4101: s: неиспользованная локальная переменная
+E:\C++ progs\Сomputer_graphics\Сomputer_graphics\mainFile.cpp(97,6): warning C4101: j: неиспользованная локальная переменная
+E:\C++ progs\Сomputer_graphics\Сomputer_graphics\mainFile.cpp(97,9): warning C4101: num: неиспользованная локальная переменная
+E:\C++ progs\Сomputer_graphics\Сomputer_graphics\mainFile.cpp(161,68): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+E:\C++ progs\Сomputer_graphics\Сomputer_graphics\mainFile.cpp(161,41): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+E:\C++ progs\Сomputer_graphics\Сomputer_graphics\mainFile.cpp(165,69): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+E:\C++ progs\Сomputer_graphics\Сomputer_graphics\mainFile.cpp(165,42): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+E:\C++ progs\Сomputer_graphics\Сomputer_graphics\mainFile.cpp(168,67): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+E:\C++ progs\Сomputer_graphics\Сomputer_graphics\mainFile.cpp(168,40): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+E:\C++ progs\Сomputer_graphics\Сomputer_graphics\mainFile.cpp(292,12): warning C4244: return: преобразование "WPARAM" в "int", возможна потеря данных
+MSVCRTD.lib(exe_main.obj) : error LNK2019: ссылка на неразрешенный внешний символ main в функции "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ).
+E:\C++ progs\Сomputer_graphics\x64\Debug\Сomputer_graphics.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
